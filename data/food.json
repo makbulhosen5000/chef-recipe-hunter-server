@@ -3,107 +3,102 @@
       "id": "1",
       "category_id": "1",
       "name": "Biryani",
-      "image_url": "https://example.com/biryani.jpg",
+      "image_url": "https://i.ibb.co/K5RfkGz/pexels-ivan-samkov-5799685.jpg",
       "rating": "4.6"
     },
     {
       "id": "2",
       "category_id": "2",
       "name": "Hilsha Fish Curry",
-      "image_url": "https://example.com/hilsha_curry.jpg",
+      "image_url": "https://i.ibb.co/10D9tqq/pexels-leonardo-luz-14785917.jpg",
       "rating": "4.3"
     },
       {
       "id": "3",
       "category_id": "3",
       "name": "Kung Pao Chicken",
-      "image_url": "https://example.com/kung_pao_chicken.jpg",
+      "image_url": "https://i.ibb.co/K5RfkGz/pexels-ivan-samkov-5799685.jpg",
       "rating": "4.4"
     },
     {
       "id": "4",
       "category_id": "4",
       "name": "Peking Duck",
-      "image_url": "https://example.com/peking_duck.jpg",
+      "image_url": "https://i.ibb.co/xHvJBPq/top-view-sushi-set-with-soy-sauce-chopsticks-wooden-serving-board.jpg",
       "rating": "4.7"
     },
     {
       "id": "5",
       "category_id": "5",
       "name": "Butter Chicken",
-      "image_url": "https://example.com/butter_chicken.jpg",
+      "image_url": "https://i.ibb.co/Rc7JSNH/club-sanwich-with-french-fries-ketchup.jpg",
       "rating": "4.8"
     },
     {
       "id": "6",
       "category_id": "6",
       "name": "Biryani",
-      "image_url": "https://example.com/indian_biryani.jpg",
+      "image_url": "https://i.ibb.co/YRJc3J9/mexican-food-concept-high-angle.jpg",
       "rating": "4.6"
     },
      {
       "id": "7",
       "category_id": "7",
       "name": "Hummus",
-      "image_url": "https://example.com/hummus.jpg",
+      "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg",
       "rating": "4.2"
     },
     {
       "id": "8",
       "category_id": "8",
       "name": "Falafel",
-      "image_url": "https://example.com/falafel.jpg",
+      "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg",
       "rating": "4.1"
     },
      {
       "id": "9",
       "category_id": "9",
       "name": "Sushi",
-      "image_url": "https://example.com/sushi.jpg",
+      "image_url": "https://i.ibb.co/Mf52L7j/indian-food-assortment-with-sari-top-view.jpg",
       "rating": "4.9"
     },
     {
       "id": "10",
       "category_id": "10",
       "name": "Ramen",
-      "image_url": "https://example.com/ramen.jpg",
+      "image_url": "https://i.ibb.co/7QQ3HrL/authentic-italian-pasta.jpg",
       "rating": "4.7"
     },
      {
       "id": "11",
       "category_id": "11",
       "name": "Pizza",
-      "image_url": "https://example.com/pizza.jpg",
+      "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg",
       "rating": "4.5"
     },
     {
       "id": "12",
       "category_id": "12",
       "name": "Pasta",
-      "image_url": "https://example.com/pasta.jpg",
+      "image_url": "https://i.ibb.co/wzXWqrG/delicious-vietnamese-food-including-pho-ga-noodles-spring-rolls-white-wall.jpg",
       "rating": "4.3"
     },
        {
       "id": "13",
       "category_id": "13",
       "name": "Jollof Rice",
-      "image_url": "https://example.com/jollof_rice.jpg",
+       "image_url": "https://i.ibb.co/kG5J41d/chicken-fried-hot-pot-with-spicy-sauce-korean-style.jpg",
       "rating": "4.7"
     },
     {
       "id": "14",
       "category_id": "14",
       "name": "Fufu and Egusi Soup",
-      "image_url": "https://example.com/fufu_egusi.jpg",
+      "image_url": "https://i.ibb.co/9gFnfnZ/big-fast-food-composition.jpg",
       "rating": "4.4"
-    },
-     {
-      "id": "15",
-      "category_id": "15",
-      "name": "Croissant",
-      "image_url": "https://example.com/croissant.jpg",
-      "rating": "4.7"
     }
+     
+
 
 
 ]
