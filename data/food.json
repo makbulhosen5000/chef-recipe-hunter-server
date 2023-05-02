@@ -1,105 +1,105 @@
 [
      {
       "id": "1",
-      "category_id": "bangladeshi",
+      "category_id": "1",
       "name": "Biryani",
       "image_url": "https://example.com/biryani.jpg",
       "rating": "4.6"
     },
     {
       "id": "2",
-      "category_id": "bangladeshi",
+      "category_id": "2",
       "name": "Hilsha Fish Curry",
       "image_url": "https://example.com/hilsha_curry.jpg",
       "rating": "4.3"
     },
       {
       "id": "3",
-      "category_id": "chinese",
+      "category_id": "3",
       "name": "Kung Pao Chicken",
       "image_url": "https://example.com/kung_pao_chicken.jpg",
       "rating": "4.4"
     },
     {
       "id": "4",
-      "category_id": "chinese",
+      "category_id": "4",
       "name": "Peking Duck",
       "image_url": "https://example.com/peking_duck.jpg",
       "rating": "4.7"
     },
     {
       "id": "5",
-      "category_id": "indian",
+      "category_id": "5",
       "name": "Butter Chicken",
       "image_url": "https://example.com/butter_chicken.jpg",
       "rating": "4.8"
     },
     {
       "id": "6",
-      "category_id": "indian",
+      "category_id": "6",
       "name": "Biryani",
       "image_url": "https://example.com/indian_biryani.jpg",
       "rating": "4.6"
     },
      {
       "id": "7",
-      "category_id": "mediterranean",
+      "category_id": "7",
       "name": "Hummus",
       "image_url": "https://example.com/hummus.jpg",
       "rating": "4.2"
     },
     {
       "id": "8",
-      "category_id": "mediterranean",
+      "category_id": "8",
       "name": "Falafel",
       "image_url": "https://example.com/falafel.jpg",
       "rating": "4.1"
     },
      {
       "id": "9",
-      "category_id": "japanese",
+      "category_id": "9",
       "name": "Sushi",
       "image_url": "https://example.com/sushi.jpg",
       "rating": "4.9"
     },
     {
       "id": "10",
-      "category_id": "japanese",
+      "category_id": "10",
       "name": "Ramen",
       "image_url": "https://example.com/ramen.jpg",
       "rating": "4.7"
     },
      {
       "id": "11",
-      "category_id": "italian",
+      "category_id": "11",
       "name": "Pizza",
       "image_url": "https://example.com/pizza.jpg",
       "rating": "4.5"
     },
     {
       "id": "12",
-      "category_id": "italian",
+      "category_id": "12",
       "name": "Pasta",
       "image_url": "https://example.com/pasta.jpg",
       "rating": "4.3"
     },
        {
       "id": "13",
-      "category_id": "african",
+      "category_id": "13",
       "name": "Jollof Rice",
       "image_url": "https://example.com/jollof_rice.jpg",
       "rating": "4.7"
     },
     {
       "id": "14",
-      "category_id": "african",
+      "category_id": "14",
       "name": "Fufu and Egusi Soup",
       "image_url": "https://example.com/fufu_egusi.jpg",
       "rating": "4.4"
     },
      {
       "id": "15",
-      "category_id": "french",
+      "category_id": "15",
       "name": "Croissant",
       "image_url": "https://example.com/croissant.jpg",
       "rating": "4.7"
