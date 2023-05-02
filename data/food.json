@@ -3,15 +3,15 @@
       "id": "1",
       "category_id": "1",
       "name": "Biryani",
-      "image_url": "https://i.ibb.co/K5RfkGz/pexels-ivan-samkov-5799685.jpg",
-      "rating": "4.6"
+      "rating": "4.2",
+       "image_url": "https://i.ibb.co/10D9tqq/pexels-leonardo-luz-14785917.jpg"
     },
     {
       "id": "2",
       "category_id": "2",
       "name": "Hilsha Fish Curry",
-      "image_url": "https://i.ibb.co/10D9tqq/pexels-leonardo-luz-14785917.jpg",
-      "rating": "4.3"
+      "rating": "4.0",
+      "image_url": "https://i.ibb.co/K5RfkGz/pexels-ivan-samkov-5799685.jpg"
     },
       {
       "id": "3",
@@ -87,7 +87,7 @@
       "id": "13",
       "category_id": "13",
       "name": "Jollof Rice",
-       "image_url": "https://i.ibb.co/kG5J41d/chicken-fried-hot-pot-with-spicy-sauce-korean-style.jpg",
+       "image_url": "https://i.ibb.co/xHvJBPq/top-view-sushi-set-with-soy-sauce-chopsticks-wooden-serving-board.jpg",
       "rating": "4.7"
     },
     {
