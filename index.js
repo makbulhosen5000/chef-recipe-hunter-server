@@ -22,8 +22,15 @@ app.get('/food/:id',(req,res)=>{
     res.send(selectedFood)
 })
 
-
-
+app.get('/categories/:id',(req,res)=>{
+  const id = parseInt(req.params.id);
+  if(id === 0){
+    res.send(food);
+  }else{
+      const categoryFood = food.filter(fd => parseInt(fd.category_id) === id);
+      res.send(categoryFood);
+  }
+})
 app.get('/categories',(req,res)=>{
 res.send(categories)
 });
