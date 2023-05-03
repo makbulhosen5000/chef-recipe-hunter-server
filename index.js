@@ -4,7 +4,7 @@ const app = express()
 const port = process.env.PORT||5000;
 app.use(cors())
 
-const categories = require('./data/foods-category.json');
+const categories = require('./data/chef.json');
 const food = require('./data/food.json');
 const recipe = require('./data/recipe.json');
 

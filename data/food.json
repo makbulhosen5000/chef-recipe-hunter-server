@@ -3,6 +3,8 @@
       "id": "1",
       "category_id": "1",
       "name": "Biryani",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "rating": "4.2",
       "details": "A spicy and sour soup with fragrant herbs and seafood.",
        "image_url": "https://i.ibb.co/10D9tqq/pexels-leonardo-luz-14785917.jpg"
@@ -11,6 +13,8 @@
       "id": "2",
       "category_id": "2",
       "name": "Hilsha Fish Curry",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "rating": "4.0",
       "details": "Stir-fried rice noodles with shrimp, tofu, eggs, and peanuts.",
       "image_url": "https://i.ibb.co/K5RfkGz/pexels-ivan-samkov-5799685.jpg"
@@ -19,7 +23,9 @@
       "id": "3",
       "category_id": "3",
       "name": "Kung Pao Chicken",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
       "details": "A dish of vinegared rice topped with various ingredients like fish, seafood, and vegetables.",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/K5RfkGz/pexels-ivan-samkov-5799685.jpg",
       "rating": "4.4"
     },
@@ -27,6 +33,8 @@
       "id": "4",
       "category_id": "4",
       "name": "Peking Duck",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "details": "A noodle soup dish with various toppings like sliced pork, eggs, and seaweed.",
       "image_url": "https://i.ibb.co/xHvJBPq/top-view-sushi-set-with-soy-sauce-chopsticks-wooden-serving-board.jpg",
       "rating": "4.7"
@@ -35,7 +43,9 @@
       "id": "5",
       "category_id": "5",
       "name": "Butter Chicken",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
        "details": "A noodle soup dish with various toppings like sliced pork, eggs, and seaweed.",
+        "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/Rc7JSNH/club-sanwich-with-french-fries-ketchup.jpg",
       "rating": "4.8"
     },
@@ -43,6 +53,8 @@
       "id": "6",
       "category_id": "6",
       "name": "Biryani",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "details": "Grilled skewered meat marinated in a spicy peanut sauce.",
       "image_url": "https://i.ibb.co/YRJc3J9/mexican-food-concept-high-angle.jpg",
       "rating": "4.6"
@@ -51,6 +63,8 @@
       "id": "7",
       "category_id": "7",
       "name": "Hummus",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg",
       "rating": "4.2"
     },
@@ -58,6 +72,8 @@
       "id": "8",
       "category_id": "8",
       "name": "Falafel",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg",
       "rating": "4.1"
     },
@@ -65,6 +81,8 @@
       "id": "9",
       "category_id": "9",
       "name": "Sushi",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/Mf52L7j/indian-food-assortment-with-sari-top-view.jpg",
       "rating": "4.9"
     },
@@ -72,6 +90,8 @@
       "id": "10",
       "category_id": "10",
       "name": "Ramen",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/7QQ3HrL/authentic-italian-pasta.jpg",
       "rating": "4.7"
     },
@@ -79,6 +99,8 @@
       "id": "11",
       "category_id": "11",
       "name": "Pizza",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg",
       "rating": "4.5"
     },
@@ -86,6 +108,8 @@
       "id": "12",
       "category_id": "12",
       "name": "Pasta",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+      "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/wzXWqrG/delicious-vietnamese-food-including-pho-ga-noodles-spring-rolls-white-wall.jpg",
       "rating": "4.3"
     },
@@ -93,6 +117,8 @@
       "id": "13",
       "category_id": "13",
       "name": "Jollof Rice",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
        "image_url": "https://i.ibb.co/xHvJBPq/top-view-sushi-set-with-soy-sauce-chopsticks-wooden-serving-board.jpg",
       "rating": "4.7"
     },
@@ -100,6 +126,8 @@
       "id": "14",
       "category_id": "14",
       "name": "Fufu and Egusi Soup",
+      "ingredients":"Flour,Sugar,Salt,Pepper,Olive oil",
+       "recipe":"Lemon Garlic Roasted Chicken,Spicy Shrimp Stir-Fry,Chocolate Chip Banana Bread",
       "image_url": "https://i.ibb.co/9gFnfnZ/big-fast-food-composition.jpg",
       "rating": "4.4"
     }

@@ -31,36 +31,45 @@
          "image_url": "https://i.ibb.co/YRJc3J9/mexican-food-concept-high-angle.jpg"
 
     },
-      {
+    {
         "id": "7",
+        "chef": "African",
+         "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg"
+    },
+    {
+        "id": "8",
+        "chef": "Vietnamese",
+         "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg"
+    },
+      {
+        "id": "9",
         "chef": "Srilankan",
          "image_url": "https://i.ibb.co/Mf52L7j/indian-food-assortment-with-sari-top-view.jpg"
     },
       {
-        "id": "8",
+        "id": "10",
         "chef": "American",
         "image_url":"https://i.ibb.co/7QQ3HrL/authentic-italian-pasta.jpg"
     },
       {
-        "id": "9",
+        "id": "11",
         "chef": "Korean",
          "image_url": "https://i.ibb.co/m9bgCNp/mixed-fried-meat-with-pomegranate-sauce.jpg"
     },
        {
-        "id": "10",
+        "id": "12",
         "chef": "Mexican",
          "image_url": "https://i.ibb.co/wzXWqrG/delicious-vietnamese-food-including-pho-ga-noodles-spring-rolls-white-wall.jpg"
     },
        {
-        "id": "11",
+        "id": "13",
         "chef": "Australian",
          "image_url": "https://i.ibb.co/kG5J41d/chicken-fried-hot-pot-with-spicy-sauce-korean-style.jpg"
     },
     {
-    "id": "12",
+    "id": "14",
     "chef": "Afgan",
     "image_url": "https://i.ibb.co/9gFnfnZ/big-fast-food-composition.jpg"
     }
- 
     
 ]
