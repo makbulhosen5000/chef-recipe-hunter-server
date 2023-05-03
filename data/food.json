@@ -4,6 +4,7 @@
       "category_id": "1",
       "name": "Biryani",
       "rating": "4.2",
+      "details": "A spicy and sour soup with fragrant herbs and seafood.",
        "image_url": "https://i.ibb.co/10D9tqq/pexels-leonardo-luz-14785917.jpg"
     },
     {
@@ -11,12 +12,14 @@
       "category_id": "2",
       "name": "Hilsha Fish Curry",
       "rating": "4.0",
+      "details": "Stir-fried rice noodles with shrimp, tofu, eggs, and peanuts.",
       "image_url": "https://i.ibb.co/K5RfkGz/pexels-ivan-samkov-5799685.jpg"
     },
       {
       "id": "3",
       "category_id": "3",
       "name": "Kung Pao Chicken",
+      "details": "A dish of vinegared rice topped with various ingredients like fish, seafood, and vegetables.",
       "image_url": "https://i.ibb.co/K5RfkGz/pexels-ivan-samkov-5799685.jpg",
       "rating": "4.4"
     },
@@ -24,6 +27,7 @@
       "id": "4",
       "category_id": "4",
       "name": "Peking Duck",
+      "details": "A noodle soup dish with various toppings like sliced pork, eggs, and seaweed.",
       "image_url": "https://i.ibb.co/xHvJBPq/top-view-sushi-set-with-soy-sauce-chopsticks-wooden-serving-board.jpg",
       "rating": "4.7"
     },
@@ -31,6 +35,7 @@
       "id": "5",
       "category_id": "5",
       "name": "Butter Chicken",
+       "details": "A noodle soup dish with various toppings like sliced pork, eggs, and seaweed.",
       "image_url": "https://i.ibb.co/Rc7JSNH/club-sanwich-with-french-fries-ketchup.jpg",
       "rating": "4.8"
     },
@@ -38,6 +43,7 @@
       "id": "6",
       "category_id": "6",
       "name": "Biryani",
+      "details": "Grilled skewered meat marinated in a spicy peanut sauce.",
       "image_url": "https://i.ibb.co/YRJc3J9/mexican-food-concept-high-angle.jpg",
       "rating": "4.6"
     },

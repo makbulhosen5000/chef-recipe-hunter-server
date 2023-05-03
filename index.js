@@ -6,10 +6,14 @@ app.use(cors())
 
 const categories = require('./data/foods-category.json');
 const food = require('./data/food.json');
+const recipe = require('./data/recipe.json');
 
 
 app.get('/', (req, res) => {
   res.send('Chef Recipe hunter is running')
+})
+app.get('/recipe', (req, res) => {
+  res.send(recipe);
 })
 
 app.get('/food',(req,res)=>{
@@ -31,13 +35,6 @@ app.get('/categories/:id',(req,res)=>{
 app.get('/categories',(req,res)=>{
 res.send(categories)
 });
-
-
-
-
-
-
-
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
